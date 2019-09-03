@@ -1,1 +1,1 @@
-# rdkit_tutorial
+# colab_rdkit
